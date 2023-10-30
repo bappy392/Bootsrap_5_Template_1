@@ -1,0 +1,70 @@
+.profile{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: white;
+    position: relative;
+    background-color: #C3DCE3;
+}
+
+.sub-profile{
+    position: abBsolute;
+    overflow: hidden;
+    color: #2A7;
+    font-weight: bold;
+    
+}
+
+body{
+    background-color: #F8F9FA;
+}
+
+.setion-1-title-1{
+    text-transform: uppercase;
+    color: #2B788B;
+}
+
+.setion-1-title-2{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+.setion-1-title-3{
+    color: #9e9c9a;
+}
+
+.section-1-button1{
+    background-color: #C3DCE3;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+
+.section-1-plus{
+    font-size: 30px;
+    font-weight: bold;
+    color: #2B788B;
+}
+.section-1-textlelft{
+    font-size: 14px;
+    line-height: 0;
+    color: #9e9c9a;
+}
+
+.section2, .section4{
+    background-color: white;
+}
+
+.section3{
+    background-color: #F5F5F3;
+}
+
+.footer-1{
+    border-bottom: 1px solid #DEE2E6;
+}
+
+.footer-1-para1 a{
+    text-decoration: none;
+    color: #66696c;
+}
